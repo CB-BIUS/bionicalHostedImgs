@@ -19,15 +19,18 @@ https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/homeHero.jpg?raw=true
 
 ### Color Table
 
-| Color         | Hex Code     |   
-|:-------------:|:------------:|
-| logo blue     |  #478cc7     |
-| light         |  #fbfbfb     |
-| dark blue     |  #0a599d     |
-| light blue    |  #4cc6e3     |
-| dark          |  #333333     |
-| orange        |  #fba819     |
-| green         |  #b4d336     |
+| Color           | Hex Code     |   
+|:---------------:|:------------:|
+| logo blue       |  #478cc7     |
+| light white txt |  #fbfbfb     |
+| light white bg  |  #f2f6fa     |
+| dark blue       |  #0a599d     |
+| light blue      |  #4cc6e3     |
+| dark blue txt   |  #0f485a     |
+| dark txt        |  #333333     |
+| gray            |  #808080     |
+| orange          |  #fba819     |
+| green           |  #98b22b     |
 
 ***
 
