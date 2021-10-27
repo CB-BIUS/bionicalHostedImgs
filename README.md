@@ -33,4 +33,8 @@ https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/homeHero.jpg?raw=true
 
 ### Font
 CabinRegular, Arial, sans-serif
-https://fonts.google.com/specimen/Cabin
+[https://fonts.google.com/specimen/Cabin]
+
+### MJML Usage
+[https://fonts.googleapis.com/css?family=Cabin]
+`<mj-font name="Cabin" href="https://fonts.googleapis.com/css?family=Cabin" />`
