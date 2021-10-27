@@ -21,10 +21,16 @@ https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/homeHero.jpg?raw=true
 
 | Color         | Hex Code     |   
 |:-------------:|:------------:|
-|               |              |
-|               |              |
-|               |              |
+| logo blue     |  #478cc7     |
+| light         |  #fbfbfb     |
+| dark blue     |  #0a599d     |
+| light blue    |  #4cc6e3     |
+| dark          |  #333333     |
+| orange        |  #fba819     |
+| green         |  #b4d336     |
 
 ***
 
 ### Font
+CabinRegular, Arial, sans-serif
+https://fonts.google.com/specimen/Cabin
