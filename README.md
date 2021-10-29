@@ -2,7 +2,7 @@
 
 ***
 
-### Blue Logo URl
+### Blue Logo URL
 https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/bionicalLogoBlue.png?raw=true
 
 ***
