@@ -10,8 +10,15 @@ https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/bionicalLogoBlue.png?r
 ### Bionical Logo White URL
 https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/bionical-logo-white.png?raw=true
 
+***
+
 ### Blue Flower URL
 https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/bionicalLogoBlueFlower.png?raw=true
+
+***
+
+### White Flower URL
+https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/bionicalLogoWhiteFlower.png?raw=true
 
 ***
 

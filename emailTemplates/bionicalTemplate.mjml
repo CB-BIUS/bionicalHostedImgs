@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Cabin" href="https://fonts.googleapis.com/css?family=Cabin" />
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#478cc7">
+      <mj-column>
+        <mj-image width="150px" src="https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/bionical-logo-white.png?raw=true" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f4f5f5">
+      <mj-column>
+        <mj-text color="#333333" font-family="CabinRegular, Arial, sans-serif">
+          <h1>Hello World!</h1>
+        </mj-text>
+        <mj-text color="#333333" font-family="CabinRegular, Arial, sans-serif">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f4f5f5">
+      <mj-column>
+      <mj-divider border-width="3px" border-style="solid" border-color="lightgrey" />
+        <mj-text color="#333333" font-family="CabinRegular, Arial, sans-serif">
+          <h2>Content</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f4f5f5">
+      <mj-column>
+        <mj-text color="#333333" font-family="CabinRegular, Arial, sans-serif">
+          <h3>Section One</h3>
+        </mj-text>
+        <mj-text color="#333333" font-family="CabinRegular, Arial, sans-serif">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#333333" font-family="CabinRegular, Arial, sans-serif">
+          <h3>Section Two</h3>
+        </mj-text>
+        <mj-text color="#333333" font-family="CabinRegular, Arial, sans-serif">
+          <p>fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#f4f5f5">
+      <mj-column>
+      <mj-divider border-width="3px" border-style="solid" border-color="lightgrey" />
+        <mj-text color="#333333" font-family="CabinRegular, Arial, sans-serif">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#478cc7">
+      <mj-column>
+        <mj-image width="25px" src="https://github.com/CB-BIUS/bionicalHostedImgs/blob/master/bionicalLogoWhiteFlower.png?raw=true" alt="logo" align="center" />
+        <mj-text color="#333333" font-family="CabinRegular, Arial, sans-serif" align="center">
+          2021 Bionical LLC
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
